@@ -1,5 +1,9 @@
 👋 Hi, I’m @AndreasZachariae
 
+Academic Research at IRAS (Institute for robotics and autonomous Systems) at Hochschule Karlsruhe, Germany
+
+Field of research is Mobile Robotics, Person Monitoring, Behavior Trees and Navigation in hospital environments
+
 ### Projects:
 - Abstraction of the BehaviorTree.CPP library to use directly with ROS2 Actions.
 - Person Monitoring Pipeline with OpenPose, Patient filtering based on ArUco markers and action classification.
