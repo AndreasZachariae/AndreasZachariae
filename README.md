@@ -2,7 +2,7 @@
 
 Academic Researcher at IRAS (Institute for Robotics and Autonomous Systems) at Hochschule Karlsruhe, Germany
 
-Field of research is Mobile Robotics, Person Monitoring, Behavior Trees and Navigation in hospital environments
+My field of research is Mobile Robotics, Person Monitoring, Behavior Trees and Navigation in multi-story hospital environments
 
 ### Projects:
 - BMBF funded project PeTRA: Autonomous person transport in hospitals
@@ -14,7 +14,7 @@ Field of research is Mobile Robotics, Person Monitoring, Behavior Trees and Navi
 - Autonomous creation of a semantic hierarcical graph for navigation.
 
 ### Frameworks:
-- ROS meldodic
+- ROS melodic
 - ROS2 dashing, foxy, humble
 - BehaviorTree.CPP
 - REACT
