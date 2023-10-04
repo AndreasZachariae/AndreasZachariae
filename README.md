@@ -1,10 +1,10 @@
-👋 Hi, I’m @AndreasZachariae
+👋 Moin, I’m Andreas Zachariae
 
 Academic Researcher at IRAS (Institute for Robotics and Autonomous Systems) at Hochschule Karlsruhe, Germany
 
 My field of research is Mobile Robotics, Person Monitoring, Behavior Trees and Navigation in multi-floor environments
 
-More infos on this [Website](https://andreaszachariae.github.io/)
+More infos on my [Website](https://andreaszachariae.github.io/)
 
 ### Projects:
 - BMBF funded project PeTRA: Autonomous person transport in hospitals
