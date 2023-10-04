@@ -4,6 +4,8 @@ Academic Researcher at IRAS (Institute for Robotics and Autonomous Systems) at H
 
 My field of research is Mobile Robotics, Person Monitoring, Behavior Trees and Navigation in multi-floor environments
 
+More infos on this [Website](https://andreaszachariae.github.io/)
+
 ### Projects:
 - BMBF funded project PeTRA: Autonomous person transport in hospitals
 - Abstraction of the BehaviorTree.CPP library to use directly with ROS2 Actions.
