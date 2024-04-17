@@ -1,26 +1,16 @@
-👋 Moin, I’m Andreas Zachariae
+👋 Moin!
 
-Academic Researcher at IRAS (Institute for Robotics and Autonomous Systems) at Hochschule Karlsruhe, Germany
+Doctoral Researcher at IAR (Institute for Anthropomatics and Robotics at KIT)
+and IRAS (Institute for Robotics and Autonomous Systems at HKA)
 
-My field of research is Mobile Robotics, Person Monitoring, Behavior Trees and Navigation in multi-floor environments
+Field of research is Assistive Robotics, Mobile Robotics, Person Monitoring, Behavior Trees and Navigation in multi-floor environments
 
 More infos on my [Website](https://andreaszachariae.github.io/)
 
 ### Projects:
-- BMBF funded project PeTRA: Autonomous person transport in hospitals
-- Abstraction of the BehaviorTree.CPP library to use directly with ROS2 Actions.
-- Person Monitoring Pipeline with OpenPose, Patient filtering based on ArUco markers and action classification.
-- Anomaly Detection for industrial use-cases with ResNet50, InceptionResNetV2 and Ensemble techniques.
-- Hackathon Challenge environment using TurtleBot3 Gazebo Simulation and BehaviorTrees.
-
-### Frameworks:
-- ROS melodic
-- ROS2 dashing, foxy, humble
-- BehaviorTree.CPP, Groot
-- REACT, Flask, MongoDB
-- Tensorflow, SciKitLearn
-- Docker, VSCode
-
-### Languages:
-- Python
-- C++
+- KATE: Technology for Accessibility (LGFG scholarship)
+- PeTRA: Autonomous person transport in hospitals (BMBF funded)
+- Custom BehaviorTree.CPP library to easily use directly with ROS2 Actions
+- Person Monitoring with OpenPose, Patient filtering based on ArUco markers and action classification
+- Multi-Floor Navigation with Hierarchical Graphs
+- Hackathon Challenge using TurtleBot3 Gazebo Simulation and BehaviorTrees
